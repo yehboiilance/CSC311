@@ -1,0 +1,4 @@
+1) Read the board from a file using a directory.
+2) Use best first search to find the best moves.
+3) Make the moves.
+4) Print the moves taken and their respective heuristic values, and put that output into a file for each input.
